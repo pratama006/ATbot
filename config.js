@@ -35,7 +35,7 @@ global.myig = 'https://instagram.com/prtm_316?igshid=MzNlNGNkZWQ4Mg=='
 
 //—————「 Set Wm 」—————//
 global.packname = 'TAMA BOT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = 'AUTHOR\nSENN9945'
+global.author = 'AUTHOR\nAdrian\nRECODE\nTAMA'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
